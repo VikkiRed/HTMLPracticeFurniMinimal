@@ -947,6 +947,11 @@ button:hover {
     .copyright__wrapper {
         display: flex;
         flex-direction: row;
+        
+    }
+    .copyright__wrapper > p {
+        font-size: 13px;
+        padding: 1%;
     }
 }
 
